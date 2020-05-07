@@ -18,6 +18,26 @@ cruzandrew2004@gmail.com
 <p>This section will include links to my work for this unit, once completed.</p>
  
 </div>
+<h2>Unit 3</h2>
+<p>This section will include links to my work for this unit, once completed.</p>
+ 
+</div>
+<h2>Unit 4</h2>
+<p>This section will include links to my work for this unit, once completed.</p>
+ 
+</div>
+<h2>Unit 5</h2>
+<p>This section will include links to my work for this unit, once completed.</p>
+ 
+</div>
+<h2>Unit 6</h2>
+<p>This section will include links to my work for this unit, once completed.</p>
+ 
+</div>
+<h2>Unit 7</h2>
+<p>This section will include links to my work for this unit, once completed.</p>
+ 
+</div>
 
 </main>
 
