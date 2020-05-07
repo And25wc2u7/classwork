@@ -1,19 +1,23 @@
 <!DOCTYPE html>
 <html>
   <head>
+<title>Web Portfolio: Andrew Cruz</title>
+ <meta charset="utf-8">
+    <h2>About Me</h2>
 <style>
-p{
+p{ 
+  color: #d63447
+  font-size: 1.5cm
+  font-weight: semi-bold
+  text-align: left
   font-family: "Times New Roman", Times, serif;
 }
-  h2{
-    font-family: Rockwell,"Times New Roman",serif;
-  }
 </style>
- <meta charset="utf-8">
 </head>
 <body>
+  
 <div>
-Web Portfolio: Andrew Cruz<br/>
+Andrew Cruz<br/>
 cruzandrew2004@gmail.com
 </div>
 
