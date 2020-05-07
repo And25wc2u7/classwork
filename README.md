@@ -13,7 +13,6 @@ p{
   font-family: "serif";
   border: 1px solid;
   padding: 10px;
-  box-shadow: 5px 10px;
 }
   h2{ 
   color: black
@@ -23,7 +22,6 @@ p{
   font-family: "Times";
   border: 1px solid;
   padding: 10px;
-  box-shadow: 5px 10px;
 }
   div{ 
   color: blue
@@ -33,7 +31,6 @@ p{
   font-family: "Times New Roman";
    border: 1px solid;
   padding: 10px;
-  box-shadow: 5px 10px;
 }
 </style>
 </head>
