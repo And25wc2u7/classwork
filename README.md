@@ -10,11 +10,10 @@ p{
   }
 </style>
  <meta charset="utf-8">
-    <title>Web Portfolio: Andrew Cruz</title>
 </head>
 <body>
 <div>
-Andrew Cruz<br/>
+Web Portfolio: Andrew Cruz<br/>
 cruzandrew2004@gmail.com
 </div>
 
