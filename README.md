@@ -6,11 +6,28 @@
     <h2>About Me</h2>
 <style>
 p{ 
-  color: #d63447
+  color: red
   font-size: 1.5cm
   font-weight: semi-bold
   text-align: left
-  font-family: "Times New Roman", Times, serif;
+  font-family: "serif";
+  border-radius: 25px;
+}
+  h2{ 
+  color: black
+  font-size: 2cm
+  font-weight:bold
+  text-align: left
+  font-family: "Times";
+  border-radius: 25px;
+}
+  div{ 
+  color: blue
+  font-size: 1.2cm
+  font-weight: bold
+  text-align: left
+  font-family: "Times New Roman";
+  border-radius: 25px;
 }
 </style>
 </head>
