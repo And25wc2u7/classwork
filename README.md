@@ -11,7 +11,9 @@ p{
   font-weight: semi-bold
   text-align: left
   font-family: "serif";
-  border-radius: 25px;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
 }
   h2{ 
   color: black
@@ -19,7 +21,9 @@ p{
   font-weight:bold
   text-align: left
   font-family: "Times";
-  border-radius: 25px;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
 }
   div{ 
   color: blue
@@ -27,7 +31,9 @@ p{
   font-weight: bold
   text-align: left
   font-family: "Times New Roman";
-  border-radius: 25px;
+   border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
 }
 </style>
 </head>
