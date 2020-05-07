@@ -1,13 +1,18 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
- 
+<style>
+p{
+  font-family: "Times New Roman", Times, serif;
+}
+  h2{
+    font-family: Rockwell,"Times New Roman",serif;
+  }
+</style>
+ <meta charset="utf-8">
     <title>Web Portfolio: Andrew Cruz</title>
-  </head>
-  <body>
-   <main>
-
+</head>
+<body>
 <div>
 Andrew Cruz<br/>
 cruzandrew2004@gmail.com
@@ -39,8 +44,6 @@ cruzandrew2004@gmail.com
 <p>This section will include links to my work for this unit, once completed.</p>
  
 </div>
-
-</main>
 
   </body>
 </html>
