@@ -5,6 +5,22 @@
  <meta charset="utf-8">
     <h2>About Me</h2>
 <style>
+  p {
+    color: red;
+    background-color: white;
+  }
+  p:hover {
+    color: white;
+    background-color: black;
+  }
+  div {
+    color: blue;
+    background-color: white;
+  }
+  div:hover {
+    color: white;
+    background-color: black;
+  }
 p{ 
   color: red
   font-size: 1.5cm
@@ -40,7 +56,13 @@ p{
 Andrew Cruz<br/>
 cruzandrew2004@gmail.com
 </div>
-
+<div class="title">
+  <h2>contact information</h2>
+  <p class="informaion">current contacts for me in 2020</p>
+  <p>My phone #: 972-829-1058</p>
+  <p>My G-Mail: cruzandrew2004@gmail.com</p>
+  <p>My twiter: @blade_ultra</p>
+  </div>
 <div>
 <nav>
 <h2>Unit 2</h2>
